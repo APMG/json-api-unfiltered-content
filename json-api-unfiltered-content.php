@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: JSON API Expose Unfiltered Content
-Plugin URI: http://blogs.mpr.org/developer
+Plugin URI: http://github.com/APMG/json-api-unfiltered-content
 Description: Extends <a href="http://wordpress.org/plugins/json-api/">JSON API</a> plugin to expose unfiltered post content as a new <a href="http://wordpress.org/plugins/json-api/other_notes/#4.-Response-objects">response object</a>.
 Version: 0.1
 Author: Paul Wenzel
